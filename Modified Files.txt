@@ -1,0 +1,94 @@
+version 1.5
+--
+
+Modified : admin/edit_widget.php
+Modified : includes/footer.php
+Modified : includes/header.php
+Modified : includes/functions.php
+Modified : includes/searchbar.php
+Modified : static/js/javascript.php
+Modified : static/css/style.css
+Added    : static/js/grids.js
+Modified : index.php
+Modified : page.php
+Modified : redirect_contact.php
+Modified : redirect_page.php
+Modified : recent.php
+Modified : show.php
+Modified : whois.php
+Modified : contact.php
+Added    : robots.txt
+
+
+version 1.4
+--
+
+Modified : admin/language_setting.php
+Modified : admin/pages.php
+Modified : includes/footer.php
+
+version 1.3
+--
+
+Modified : index.php
+Modified : show.php
+Modified : recent.php
+Modified : includes/functions.php
+Modified : includes/results.php
+Modified : includes/session.php
+Modified : static/js/javascript.php
+Modified : static/css/style.css
+Modified : admin/add_language.php
+Modified : admin/edit_language.php
+Modified : admin/index
+
+
+version 1.2
+--
+
+Added    : cache directory in include directory
+Modified : index.php
+Modified : includes/footer.php
+Modified : 404.php
+Modified : show.php
+Modified : redirect_page.php
+Modified : redirect_contact.php
+Modified : whois.php
+Modified : recent.php
+Added    : libs/whois.servers.json file
+Added    : libs/whoischeck.php file
+Modified : static/js/javascript.php file
+Modified : includes/functions.php file
+Modified : admin/domains.php
+Modified : admin/index.php
+Modified : admin/reset.php
+Modified : admin/license.api.php
+Removed  : admin/license.php
+Removed  : admin/logout.php
+Removed  : admin/includes/top_navbar.php
+Removed  : admin/includes/side_navbar.php
+Removed  : license table from database
+
+
+Version 1.1
+--
+
+Modified : index.php
+Modified : page.php
+Modified : recent.php
+Modified : show.php
+Modified : whois.php
+Modified : redirect_page.php
+Modified : redirect_contact.php
+Modified : includes/results.php
+Modified : includes/count_stats.php
+Modified : includes/footer.php.php 
+Modified : includes/header.php
+Modified : includes/sidebar.php
+Modified : includes/functions.php
+Modified : includes/session.php
+Modified : static/js/javascript.php
+
+Version 1.0
+--
+Initial Release

@@ -1,0 +1,35 @@
+body{
+direction:rtl;
+}
+.top-searchbar input {
+margin-left: 20px;
+}
+.top-searchbar p {
+direction: ltr;
+}
+.social .text {
+float: right;
+}
+.social .social-holder {
+float: right;
+}
+.scrollToTop {
+right: 96%;
+}
+#contact-us .con-input {
+border-right: 0px;
+border-left: 1px solid #C3CFD0;
+border-radius: 0px;
+}
+.input-group-addon:first-child {
+border-left: 0px;
+border-right: 1px solid #C3CFD0;
+border-radius: 0px!important;
+}
+#domain-info .table .heading {
+text-align: right;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th
+{
+text-align:right;
+}

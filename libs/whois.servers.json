@@ -1,0 +1,2678 @@
+{
+    "com": [
+        "whois.crsnic.net",
+        "No match for"
+    ],
+    "net": [
+        "whois.crsnic.net",
+        "No match for"
+    ],
+    "org": [
+        "whois.publicinterestregistry.net",
+        "NOT FOUND"
+    ],
+    "co.uk": [
+        "whois.nic.uk",
+        "No match"
+    ],
+    "net.uk": [
+        "whois.nic.uk",
+        "No match"
+    ],
+    "org.uk": [
+        "whois.nic.uk",
+        "No match"
+    ],
+    "ltd.uk": [
+        "whois.nic.uk",
+        "No match"
+    ],
+    "lc": [
+        "whois2.afilias-grs.net",
+        "NOT FOUND"
+    ],
+    "plc.uk": [
+        "whois.nic.uk",
+        "No match"
+    ],
+    "me.uk": [
+        "whois.nic.uk",
+        "No match"
+    ],
+    "edu": [
+        "whois.internic.net",
+        "No match for"
+    ],
+    "mil": [
+        "whois.internic.net",
+        "No match for"
+    ],
+    "br.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "cn.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "eu.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "hu.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "no.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "qc.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "sa.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "se.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "se.net": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "us.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "uy.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "za.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "ac": [
+        "whois.nic.ac",
+        "Available"
+    ],
+    "co.ac": [
+        "whois.nic.ac",
+        "Available"
+    ],
+    "gv.ac": [
+        "whois.nic.ac",
+        "Available"
+    ],
+    "or.ac": [
+        "whois.nic.ac",
+        "Available"
+    ],
+    "ac.ac": [
+        "whois.nic.ac",
+        "Available"
+    ],
+    "af": [
+        "whois.netnames.net",
+        "No Match"
+    ],
+    "am": [
+        "whois.nic.am",
+        "No match"
+    ],
+    "as": [
+        "whois.nic.as",
+        "Domain Not Found"
+    ],
+    "at": [
+        "whois.nic.at",
+        "nothing found"
+    ],
+    "ac.at": [
+        "whois.nic.at",
+        "nothing found"
+    ],
+    "co.at": [
+        "whois.nic.at",
+        "nothing found"
+    ],
+    "gv.at": [
+        "whois.nic.at",
+        "nothing found"
+    ],
+    "or.at": [
+        "whois.nic.at",
+        "nothing found"
+    ],
+    "asn.au": [
+        "whois.aunic.net",
+        "No Data Found"
+    ],
+    "com.au": [
+        "whois.aunic.net",
+        "No Data Found"
+    ],
+    "edu.au": [
+        "whois.aunic.net",
+        "No Data Found"
+    ],
+    "org.au": [
+        "whois.aunic.net",
+        "No Data Found"
+    ],
+    "net.au": [
+        "whois.aunic.net",
+        "No Data Found"
+    ],
+    "id.au": [
+        "whois.aunic.net",
+        "No Data Found"
+    ],
+    "be": [
+        "whois.dns.be",
+        "Status: AVAILABLE"
+    ],
+    "ac.be": [
+        "whois.dns.be",
+        "No such domain"
+    ],
+    "br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "adm.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "adv.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "am.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "arq.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "art.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "bio.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "cng.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "cnt.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "com.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "ecn.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "eng.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "esp.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "etc.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "eti.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "fm.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "fot.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "fst.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "g12.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "gov.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "ind.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "inf.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "jor.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "lel.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "med.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "mil.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "net.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "nom.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "ntr.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "odo.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "org.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "ppg.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "pro.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "psc.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "psi.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "rec.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "slg.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "tmp.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "tur.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "tv.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "vet.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "zlg.br": [
+        "whois.nic.br",
+        "No match for"
+    ],
+    "ca": [
+        "whois.cira.ca",
+        "Domain status: available"
+    ],
+    "cc": [
+        "whois.nic.cc",
+        "No match"
+    ],
+    "cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "ac.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "com.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "edu.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "gov.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "net.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "org.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "bj.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "sh.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "tj.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "cq.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "he.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "nm.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "ln.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "jl.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "hl.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "js.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "zj.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "ah.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "hb.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "hn.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "gd.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "gx.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "hi.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "sc.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "gz.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "yn.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "xz.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "sn.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "gs.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "qh.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "nx.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "xj.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "tw.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "hk.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "mo.cn": [
+        "whois.cnnic.net.cn",
+        "no matching record"
+    ],
+    "cx": [
+        "whois.nic.cx",
+        "No match for"
+    ],
+    "cz": [
+        "whois.nic.cz",
+        "No entries found"
+    ],
+    "de": [
+        "whois.denic.de",
+        "Status: free"
+    ],
+    "com.de": [
+        "whois.centralnic.com",
+        "Status: free"
+    ],
+    "dk": [
+        "whois.dk-hostmaster.dk",
+        "No entries found"
+    ],
+    "fo": [
+        "whois.nic.fo",
+        "no entries found"
+    ],
+    "com.ec": [
+        "whois.lac.net",
+        "No match found"
+    ],
+    "org.ec": [
+        "whois.lac.net",
+        "No match found"
+    ],
+    "net.ec": [
+        "whois.lac.net",
+        "No match found"
+    ],
+    "mil.ec": [
+        "whois.lac.net",
+        "No match found"
+    ],
+    "fin.ec": [
+        "whois.lac.net",
+        "No match found"
+    ],
+    "med.ec": [
+        "whois.lac.net",
+        "No match found"
+    ],
+    "gov.ec": [
+        "whois.lac.net",
+        "No match found"
+    ],
+    "fr": [
+        "whois.nic.fr",
+        "No entries found"
+    ],
+    "tm.fr": [
+        "whois.nic.fr",
+        "No entries found"
+    ],
+    "com.fr": [
+        "whois.nic.fr",
+        "No entries found"
+    ],
+    "asso.fr": [
+        "whois.nic.fr",
+        "No entries found"
+    ],
+    "presse.fr": [
+        "whois.nic.fr",
+        "No entries found"
+    ],
+    "gf": [
+        "whois.nplus.gf",
+        "not found in our database"
+    ],
+    "gs": [
+        "whois.nic.gs",
+        "No Object Found"
+    ],
+    "co.il": [
+        "whois.isoc.org.il",
+        "No data was found"
+    ],
+    "org.il": [
+        "whois.isoc.org.il",
+        "No data was found"
+    ],
+    "net.il": [
+        "whois.isoc.org.il",
+        "No data was found"
+    ],
+    "ac.il": [
+        "whois.isoc.org.il",
+        "No data was found"
+    ],
+    "k12.il": [
+        "whois.isoc.org.il",
+        "No data was found"
+    ],
+    "gov.il": [
+        "whois.isoc.org.il",
+        "No data was found"
+    ],
+    "muni.il": [
+        "whois.isoc.org.il",
+        "No data was found"
+    ],
+    "ac.in": [
+        "whois.inregistry.in",
+        "NOT FOUND"
+    ],
+    "co.in": [
+        "whois.inregistry.in",
+        "NOT FOUND"
+    ],
+    "org.in": [
+        "whois.inregistry.in",
+        "NOT FOUND"
+    ],
+    "ernet.in": [
+        "whois.inregistry.in",
+        "NOT FOUND"
+    ],
+    "gov.in": [
+        "whois.inregistry.in",
+        "NOT FOUND"
+    ],
+    "net.in": [
+        "whois.inregistry.in",
+        "NOT FOUND"
+    ],
+    "res.in": [
+        "whois.inregistry.in",
+        "NOT FOUND"
+    ],
+    "is": [
+        "whois.isnic.is",
+        "No entries found"
+    ],
+    "it": [
+        "whois.nic.it",
+        "AVAILABLE"
+    ],
+    "ac.jp": [
+        "whois.nic.ad.jp",
+        "No match!!"
+    ],
+    "co.jp": [
+        "whois.nic.ad.jp",
+        "No match!!"
+    ],
+    "go.jp": [
+        "whois.nic.ad.jp",
+        "No match!!"
+    ],
+    "or.jp": [
+        "whois.nic.ad.jp",
+        "No match!!"
+    ],
+    "ne.jp": [
+        "whois.nic.ad.jp",
+        "No match!!"
+    ],
+    "ac.kr": [
+        "whois.nic.or.kr",
+        "is not registered"
+    ],
+    "co.kr": [
+        "whois.nic.or.kr",
+        "is not registered"
+    ],
+    "go.kr": [
+        "whois.nic.or.kr",
+        "is not registered"
+    ],
+    "ne.kr": [
+        "whois.nic.or.kr",
+        "is not registered"
+    ],
+    "nm.kr": [
+        "whois.nic.or.kr",
+        "is not registered"
+    ],
+    "or.kr": [
+        "whois.nic.or.kr",
+        "is not registered"
+    ],
+    "re.kr": [
+        "whois.nic.or.kr",
+        "is not registered"
+    ],
+    "li": [
+        "whois.nic.li",
+        "do not have an entry in our database matching your query"
+    ],
+    "lt": [
+        "whois.domreg.lt",
+        "Status:\t\t\tavailable"
+    ],
+    "lu": [
+        "whois.dns.lu",
+        "No such domain"
+    ],
+    "asso.mc": [
+        "whois.ripe.net",
+        "no entries found"
+    ],
+    "tm.mc": [
+        "whois.ripe.net",
+        "no entries found"
+    ],
+    "com.mm": [
+        "whois.nic.mm",
+        "No domains matched"
+    ],
+    "org.mm": [
+        "whois.nic.mm",
+        "No domains matched"
+    ],
+    "net.mm": [
+        "whois.nic.mm",
+        "No domains matched"
+    ],
+    "edu.mm": [
+        "whois.nic.mm",
+        "No domains matched"
+    ],
+    "gov.mm": [
+        "whois.nic.mm",
+        "No domains matched"
+    ],
+    "ms": [
+        "whois.nic.ms",
+        "No Object Found"
+    ],
+    "mx": [
+        "whois.nic.mx",
+        "Object_Not_Found"
+    ],
+    "com.mx": [
+        "whois.nic.mx",
+        "Object_Not_Found"
+    ],
+    "org.mx": [
+        "whois.nic.mx",
+        "Object_Not_Found"
+    ],
+    "net.mx": [
+        "whois.nic.mx",
+        "Object_Not_Found"
+    ],
+    "edu.mx": [
+        "whois.nic.mx",
+        "Object_Not_Found"
+    ],
+    "gov.mx": [
+        "whois.nic.mx",
+        "Object_Not_Found"
+    ],
+    "gob.mx": [
+        "whois.nic.mx",
+        "Object_Not_Found"
+    ],
+    "nl": [
+        "whois.domain-registry.nl",
+        "is free"
+    ],
+    "no": [
+        "whois.norid.no",
+        "No match"
+    ],
+    "nu": [
+        "whois.nic.nu",
+        "not found"
+    ],
+    "pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "com.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "net.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "org.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "aid.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "agro.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "atm.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "auto.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "biz.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "edu.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "gmina.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "gsm.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "info.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "mail.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "miasta.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "media.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "mil.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "nom.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "pc.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "priv.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "realestate.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "rel.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "shop.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "sklep.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "sos.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "targi.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "tm.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "tourism.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "travel.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "turystyka.pl": [
+        "whois.dns.pl",
+        "No information available"
+    ],
+    "ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "com.ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "org.ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "store.ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "tm.ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "firm.ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "www.ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "arts.ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "rec.ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "info.ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "nom.ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "nt.ro": [
+        "whois.rotld.ro",
+        "No entries found"
+    ],
+    "se": [
+        "whois.iis.se",
+        "not found"
+    ],
+    "si": [
+        "whois.arnes.si",
+        "No entries found"
+    ],
+    "com.sg": [
+        "whois.nic.net.sg",
+        "Domain Not Found"
+    ],
+    "org.sg": [
+        "whois.nic.net.sg",
+        "Domain Not Found"
+    ],
+    "net.sg": [
+        "whois.nic.net.sg",
+        "Domain Not Found"
+    ],
+    "gov.sg": [
+        "whois.nic.net.sg",
+        "Domain Not Found"
+    ],
+    "sk": [
+        "whois.sk-nic.sk",
+        "Not found"
+    ],
+    "st": [
+        "whois.nic.st",
+        "No entries found"
+    ],
+    "tc": [
+        "whois.adamsnames.tc",
+        "Available"
+    ],
+    "tf": [
+        "whois.nic.tf",
+        "No entries found"
+    ],
+    "tt": [
+        "https:\/\/www.nic.tt\/cgi-bin\/search.pl?name=",
+        "is available"
+    ],
+    "ac.th": [
+        "whois.thnic.net",
+        "No match for"
+    ],
+    "co.th": [
+        "whois.thnic.net",
+        "No match for"
+    ],
+    "go.th": [
+        "whois.thnic.net",
+        "No match for"
+    ],
+    "mi.th": [
+        "whois.thnic.net",
+        "No match for"
+    ],
+    "net.th": [
+        "whois.thnic.net",
+        "No match for"
+    ],
+    "or.th": [
+        "whois.thnic.net",
+        "No match for"
+    ],
+    "in.th": [
+        "whois.thnic.net",
+        "No match for"
+    ],
+    "tj": [
+        "whois.nic.tj",
+        "No match"
+    ],
+    "tm": [
+        "whois.nic.tm",
+        "is available"
+    ],
+    "to": [
+        "monarch.tonic.to",
+        "No match for"
+    ],
+    "bbs.tr": [
+        "whois.metu.edu.tr",
+        "No match found"
+    ],
+    "com.tr": [
+        "whois.metu.edu.tr",
+        "No match found"
+    ],
+    "edu.tr": [
+        "whois.metu.edu.tr",
+        "No match found"
+    ],
+    "gov.tr": [
+        "whois.metu.edu.tr",
+        "No match found"
+    ],
+    "k12.tr": [
+        "whois.metu.edu.tr",
+        "No match found"
+    ],
+    "mil.tr": [
+        "whois.metu.edu.tr",
+        "No match found"
+    ],
+    "net.tr": [
+        "whois.metu.edu.tr",
+        "No match found"
+    ],
+    "org.tr": [
+        "whois.metu.edu.tr",
+        "No match found"
+    ],
+    "com.tw": [
+        "whois.twnic.net",
+        "No Found"
+    ],
+    "org.tw": [
+        "whois.twnic.net",
+        "No Found"
+    ],
+    "net.tw": [
+        "whois.twnic.net",
+        "No Found"
+    ],
+    "ac.uk": [
+        "whois.ja.net",
+        "Sorry - no"
+    ],
+    "uk.co": [
+        "whois.uk.co",
+        "NO MATCH"
+    ],
+    "uk.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "uk.net": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "gb.com": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "gb.net": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+    "vg": [
+        "whois.adamsnames.tc",
+        "No Object Found"
+    ],
+    "ac.za": [
+        "whois.co.za",
+        "No information available"
+    ],
+    "alt.za": [
+        "whois.co.za",
+        "No information available"
+    ],
+    "co.za": [
+        "http:\/\/whois.registry.net.za\/whois\/whois.sh?Domain=",
+        "No Matches"
+    ],
+    "edu.za": [
+        "whois.co.za",
+        "No information available"
+    ],
+    "gov.za": [
+        "whois.co.za",
+        "No information available"
+    ],
+    "mil.za": [
+        "whois.co.za",
+        "No information available"
+    ],
+    "net.za": [
+        "whois.co.za",
+        "No information available"
+    ],
+    "ngo.za": [
+        "whois.co.za",
+        "No information available"
+    ],
+    "nom.za": [
+        "whois.co.za",
+        "No information available"
+    ],
+    "org.za": [
+        "http:\/\/org.za\/cgi-bin\/rwhois?format=full&domain=",
+        "Domain not registered"
+    ],
+    "school.za": [
+        "whois.co.za",
+        "No information available"
+    ],
+    "tm.za": [
+        "whois.co.za",
+        "No information available"
+    ],
+    "web.za": [
+        "whois.co.za",
+        "No information available"
+    ],
+    "sh": [
+        "whois.nic.sh",
+        "is available for purchase"
+    ],
+    "kz": [
+        "whois.nic.kz",
+        "Nothing found for this query."
+    ],
+    "ch": [
+        "whois.nic.ch",
+        "not have an entry"
+    ],
+    "info": [
+        "whois.afilias.net",
+        "NOT FOUND"
+    ],
+    "ua": [
+        "whois.net.ua",
+        "No entries found"
+    ],
+    "biz": [
+        "whois.nic.biz",
+        "Not found"
+    ],
+    "ws": [
+        "whois.nic.ws",
+        "No match for"
+    ],
+    "gov": [
+        "whois.nic.gov",
+        "No match for"
+    ],
+    "name": [
+        "whois.nic.name",
+        "No match"
+    ],
+    "ie": [
+        "whois.domainregistry.ie",
+        "% Not Registered"
+    ],
+    "hk": [
+        "whois.hkirc.hk",
+        "The domain has not been registered"
+    ],
+    "com.hk": [
+        "whois.hkdnr.net.hk",
+        "The domain has not been registered"
+    ],
+    "org.hk": [
+        "whois.hkdnr.net.hk",
+        "The domain has not been registered"
+    ],
+    "net.hk": [
+        "whois.hkdnr.net.hk",
+        "The domain has not been registered"
+    ],
+    "edu.hk": [
+        "whois.hkdnr.net.hk",
+        "The domain has not been registered"
+    ],
+    "us": [
+        "whois.nic.us",
+        "Not found"
+    ],
+    "tk": [
+        "https:\/\/partners.nic.tk\/cgi-bin\/whmcs-whois.taloha?d=",
+        "has no matches"
+    ],
+    "cd": [
+        "whois.cd",
+        "No match"
+    ],
+    "aero": [
+        "whois.aero",
+        "NOT FOUND"
+    ],
+    "by": [
+        "whois.cctld.by",
+        "no entries found"
+    ],
+    "ad": [
+        "whois.ripe.net",
+        "no entries found"
+    ],
+    "lv": [
+        "whois.nic.lv",
+        "Status: free"
+    ],
+    "eu.lv": [
+        "whois.biz",
+        "Not found"
+    ],
+    "bz": [
+        "whois.afilias-grs.info.",
+        "NOT FOUND"
+    ],
+    "es": [
+        "http:\/\/whois.virtualname.es\/whois.php?domain=",
+        "LIBRE"
+    ],
+    "jp": [
+        "whois.jprs.jp",
+        "No match!!"
+    ],
+    "cl": [
+        "whois.nic.cl",
+        "no existe"
+    ],
+    "ag": [
+        "whois.nic.ag",
+        "NOT FOUND"
+    ],
+    "mobi": [
+        "whois.dotmobiregistry.net",
+        "NOT FOUND"
+    ],
+    "eu": [
+        "whois.eu",
+        "Status: AVAILABLE"
+    ],
+    "co.nz": [
+        "whois.srs.net.nz",
+        "220 Available"
+    ],
+    "org.nz": [
+        "whois.srs.net.nz",
+        "220 Available"
+    ],
+    "net.nz": [
+        "whois.srs.net.nz",
+        "220 Available"
+    ],
+    "maori.nz": [
+        "whois.srs.net.nz",
+        "220 Available"
+    ],
+    "iwi.nz": [
+        "whois.srs.net.nz",
+        "220 Available"
+    ],
+    "ac.nz": [
+        "whois.srs.net.nz",
+        "220 Available"
+    ],
+    "kiwi.nz": [
+        "whois.srs.net.nz",
+        "220 Available"
+    ],
+    "geek.nz": [
+        "whois.srs.net.nz",
+        "220 Available"
+    ],
+    "gen.nz": [
+        "whois.srs.net.nz",
+        "220 Available"
+    ],
+    "school.nz": [
+        "whois.srs.net.nz",
+        "220 Available"
+    ],
+    "io": [
+        "whois.nic.io",
+        "is available"
+    ],
+    "la": [
+        "whois.nic.la",
+        "NOT FOUND"
+    ],
+    "md": [
+        "whois.nic.md",
+        "No match for"
+    ],
+    "sc": [
+        "wawa.eahd.or.ug",
+        "No entries found"
+    ],
+    "sg": [
+        "whois.nic.net.sg",
+        "Domain Not Found"
+    ],
+    "vc": [
+        "whois.adamsnames.tc",
+        "Available"
+    ],
+    "tw": [
+        "whois.twnic.net.tw",
+        "No Found"
+    ],
+    "travel": [
+        "whois.nic.travel",
+        "Not found"
+    ],
+    "my": [
+        "whois.mynic.net.my",
+        "does not exist in database"
+    ],
+    "com.my": [
+        "whois.mynic.net.my",
+        "does not exist"
+    ],
+    "net.my": [
+        "whois.mynic.net.my",
+        "does not exist"
+    ],
+    "org.my": [
+        "whois.mynic.net.my",
+        "does not exist"
+    ],
+    "edu.my": [
+        "whois.mynic.net.my",
+        "does not exist"
+    ],
+    "gov.my": [
+        "whois.mynic.net.my",
+        "does not exist"
+    ],
+    "com.ph": [
+        "http:\/\/www2.dot.ph\/WhoIs.asp?Domain=",
+        "is still available"
+    ],
+    "net.ph": [
+        "http:\/\/www2.dot.ph\/WhoIs.asp?Domain=",
+        "is still available"
+    ],
+    "org.ph": [
+        "http:\/\/www2.dot.ph\/WhoIs.asp?Domain=",
+        "is still available"
+    ],
+    "ngo.ph": [
+        "http:\/\/www2.dot.ph\/WhoIs.asp?Domain=",
+        "is still available"
+    ],
+    "ph": [
+        "http:\/\/www2.dot.ph\/WhoIs.asp?Domain=",
+        "is still available"
+    ],
+    "tv": [
+        "whois.nic.tv",
+        "No match for"
+    ],
+    "pt": [
+        "whois.dns.pt",
+        "no match"
+    ],
+    "com.pt": [
+        "whois.dns.pt",
+        "no match"
+    ],
+    "edu.pt": [
+        "whois.dns.pt",
+        "no match"
+    ],
+    "in": [
+        "whois.inregistry.in",
+        "NOT FOUND"
+    ],
+    "me": [
+        "whois.meregistry.net",
+        "NOT FOUND"
+    ],
+    "asia": [
+        "whois.nic.asia",
+        "NOT FOUND"
+    ],
+    "fi": [
+        "whois.ficora.fi",
+        "Domain not found"
+    ],
+    "com.ve": [
+        "whois.nic.ve",
+        "No match for"
+    ],
+    "net.ve": [
+        "whois.nic.ve",
+        "No match for"
+    ],
+    "za.net": [
+        "http:\/\/www.za.net\/cgi-bin\/whois.cgi?domain=",
+        "No such domain"
+    ],
+    "za.org": [
+        "http:\/\/www.za.net\/cgi-bin\/whois.cgi?domain=",
+        "No such domain"
+    ],
+    "org.ve": [
+        "whois.nic.ve",
+        "No match for"
+    ],
+    "web.ve": [
+        "whois.nic.ve",
+        "No match for"
+    ],
+    "info.ve": [
+        "whois.nic.ve",
+        "No match for"
+    ],
+    "co.ve": [
+        "whois.nic.ve",
+        "No match for"
+    ],
+    "tel": [
+        "whois.nic.tel",
+        "Not found"
+    ],
+    "hr": [
+        "http:\/\/dns.hr\/?only_mod_instance=300_612_0&clean_tpl=true&ds_domena=",
+        "nije registrirana"
+    ],
+    "im": [
+        "whois.nic.im",
+        "was not found"
+    ],
+    "gr": [
+        "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
+        "not exist"
+    ],
+    "com.gr": [
+        "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
+        "not exist"
+    ],
+    "net.gr": [
+        "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
+        "not exist"
+    ],
+    "org.gr": [
+        "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
+        "not exist"
+    ],
+    "edu.gr": [
+        "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
+        "not exist"
+    ],
+    "gov.gr": [
+        "http:\/\/grwhois.ics.forth.gr:800\/plainwhois\/plainWhois?domainName=",
+        "not exist"
+    ],
+    "ir": [
+        "whois.nic.ir",
+        "no entries found"
+    ],
+    "ru": [
+        "whois.ripn.net",
+        "No entries found"
+    ],
+    "xn--p1ai": [
+        "whois.ripn.net",
+        "No entries found"
+    ],
+    "pp.ru": [
+        "whois.nic.ru",
+        "No entries found"
+    ],
+    "net.ru": [
+        "whois.ripn.net",
+        "No entries found"
+    ],
+    "org.ru": [
+        "whois.nic.ru",
+        "No entries found"
+    ],
+    "spb.ru": [
+        "whois.nic.ru",
+        "No entries found"
+    ],
+    "msk.ru": [
+        "whois.nic.ru",
+        "No entries found"
+    ],
+    "su": [
+        "whois.ripn.net",
+        "No entries found"
+    ],
+    "sochi.su": [
+        "whois.nic.ru",
+        "No entries found"
+    ],
+    "com.ru": [
+        "whois.ripn.net",
+        "No entries found"
+    ],
+    "com.ua": [
+        "whois.net.ua",
+        "No entries found"
+    ],
+    "lviv.ua": [
+        "whois.net.ua",
+        "No entries found"
+    ],
+    "dn.ua": [
+        "whois.net.ua",
+        "No entries found"
+    ],
+    "kh.ua": [
+        "whois.net.ua",
+        "No entries found"
+    ],
+    "lg.ua": [
+        "whois.net.ua",
+        "No entries found"
+    ],
+    "net.ua": [
+        "whois.net.ua",
+        "No entries found"
+    ],
+    "org.ua": [
+        "whois.net.ua",
+        "No entries found"
+    ],
+    "kiev.ua": [
+        "whois.net.ua",
+        "No entries found"
+    ],
+    "co": [
+        "whois.nic.co",
+        "Not found"
+    ],
+    "net.co": [
+        "whois.nic.co",
+        "Not found"
+    ],
+    "com.co": [
+        "whois.nic.co",
+        "Not found"
+    ],
+    "nom.co": [
+        "whois.nic.co",
+        "Not found"
+    ],
+    "edu.sg": [
+        "whois.nic.net.sg",
+        "Domain Not Found"
+    ],
+    "com.gt": [
+        "http:\/\/www.gt\/cgi-bin\/whois.cgi?domain=",
+        "DOMINIO NO REGISTRADO"
+    ],
+    "net.gt": [
+        "http:\/\/www.gt\/cgi-bin\/whois.cgi?domain=",
+        "DOMINIO NO REGISTRADO"
+    ],
+    "org.gt": [
+        "http:\/\/www.gt\/cgi-bin\/whois.cgi?domain=",
+        "DOMINIO NO REGISTRADO"
+    ],
+    "ind.gt": [
+        "http:\/\/www.gt\/cgi-bin\/whois.cgi?domain=",
+        "DOMINIO NO REGISTRADO"
+    ],
+    "edu.gt": [
+        "http:\/\/www.gt\/cgi-bin\/whois.cgi?domain=",
+        "DOMINIO NO REGISTRADO"
+    ],
+    "gob.gt": [
+        "http:\/\/www.gt\/cgi-bin\/whois.cgi?domain=",
+        "DOMINIO NO REGISTRADO"
+    ],
+    "mil.gt": [
+        "http:\/\/www.gt\/cgi-bin\/whois.cgi?domain=",
+        "DOMINIO NO REGISTRADO"
+    ],
+    "pro": [
+        "whois.registrypro.pro",
+        "NOT FOUND"
+    ],
+    "re": [
+        "whois.nic.re",
+        "No entries found"
+    ],
+    "pm": [
+        "whois.nic.pm",
+        "No entries found"
+    ],
+    "wf": [
+        "whois.nic.wf",
+        "No entries found"
+    ],
+    "yt": [
+        "whois.nic.yt",
+        "No entries found"
+    ],
+    "xxx": [
+        "whois.nic.xxx",
+        "NOT FOUND"
+    ],
+    "hu": [
+        "whois.nic.hu",
+        "No match"
+    ],
+    "ac.ke": [
+        "whois.kenic.or.ke",
+        "Not Registered"
+    ],
+    "co.ke": [
+        "whois.kenic.or.ke",
+        "Not Registered"
+    ],
+    "gd": [
+        "whois.nic.gd",
+        "not found..."
+    ],
+    "rs": [
+        "whois.rnids.rs",
+        "%ERROR:103"
+    ],
+    "co.rs": [
+        "whois.rnids.rs",
+        "%ERROR:103"
+    ],
+    "org.rs": [
+        "whois.rnids.rs",
+        "%ERROR:103"
+    ],
+    "edu.rs": [
+        "whois.rnids.rs",
+        "%ERROR:103"
+    ],
+    "in.rs": [
+        "whois.rnids.rs",
+        "%ERROR:103"
+    ],
+    "ae": [
+        "whois-check.aeda.net.ae",
+        "---Available"
+    ],
+    "pw": [
+        "whois.nic.pw",
+        "DOMAIN NOT FOUND"
+    ],
+    "cat": [
+        "whois.cat",
+        "NOT FOUND"
+    ],
+    "mil.id": [
+        "whois.idnic.net.id",
+        "Not found"
+    ],
+    "go.id": [
+        "whois.idnic.net.id",
+        "Not found"
+    ],
+    "fm": [
+        "whois.nic.fm",
+        "Not Registered"
+    ],
+    "mn": [
+        "whois.afilias-grs.info",
+        "NOT FOUND"
+    ],
+    "sx": [
+        "whois.sx",
+        "Status: AVAILABLE"
+    ],
+    "bg": [
+        "whois.register.bg",
+        "does not exist in database"
+    ],
+    "academy": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "bike": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "build": [
+        "whois.nic.build",
+        "No Data Found"
+    ],
+    "builders": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "buzz": [
+        "whois.nic.buzz",
+        "Not found"
+    ],
+	"cab": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"buzz": [
+        "whois.nic.buzz",
+        "Not found"
+    ],
+	"capital": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"cards": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"care": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"cards": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"cash": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"catering": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"cheap": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "camera": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "camp": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "careers": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "center": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "community": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "club": [
+        "whois.nic.club",
+        "Not found"
+    ],
+	 "codes": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "condos": [
+        "whois.nic.condos",
+        "Domain not found"
+    ],
+	 "cool": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "cruises": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"exchange": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"fail": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"financial": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"foundation": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"fund": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"furniture": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"gripe": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"immobilien": [
+        "whois.nic.immobilien",
+        "Domain not found"
+    ],
+	"industries": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"kim": [
+        "whois.afilias.net",
+        "NOT FOUND"
+    ],
+	"lease": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"limited": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"market": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"media": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"parts": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"photo": [
+        "whois.uniregistry.net",
+        "is available for registration"
+    ],
+	"physio": [
+        "whois.nic.physio",
+        "No Data Found"
+    ],
+	"pics": [
+        "whois.uniregistry.net",
+        "is available for registration"
+    ],
+	"productions": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"properties": [
+        "whois.nic.properties",
+        "Domain not found"
+    ],
+	"red": [
+        "whois.afilias.net",
+        "NOT FOUND"
+    ],
+	"reisen": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"rentals": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"report": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"reviews": [
+        "whois.nic.reviews",
+        "Domain not found"
+    ],
+	"rip": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"services": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"shiksha": [
+        "whois.nic.shiksha",
+        "NOT FOUND"
+    ],
+	"social": [
+        "whois.nic.social",
+        "Domain not found"
+    ],
+	"supplies": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"supply": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"surgery": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"tax": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"tienda": [
+        "whois.nic.tienda",
+        "Domain not found"
+    ],
+	"tools": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"town": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"toys": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"trade": [
+        "whois.nic.trade",
+        "Not found"
+    ],
+	"university": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"vacations": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"villas": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"vision": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"watch": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"wiki": [
+        "whois.nic.wiki",
+        "DOMAIN NOT FOUND"
+    ],
+	"works": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"xyz": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+	"zone": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "dating": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "democrat": [
+        "whois.nic.democrat",
+        "Domain not found"
+    ],
+	 "dental": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "diamonds": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "directory": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "domains": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "engineer": [
+        "whois.nic.engineer",
+        "Domain not found"
+    ],
+	 "engineering": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "events": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	 "dance": [
+        "whois.nic.dance",
+        "Domain not found"
+    ],
+    "clothing": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "coffee": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "company": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "computer": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "construction": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "contractors": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"associates": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"bid": [
+        "whois.nic.bid",
+        "Not found"
+    ],
+	"berlin": [
+        "whois.nic.berlin",
+        "No match"
+    ],
+	"bargains": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"agency": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "bike": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "blue": [
+        "whois.nic.blue",
+        "NOT FOUND"
+    ],
+    "boutique": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "education": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "email": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "enterprises": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "equipment": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "estate": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "expert": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "exposed": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "farm": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "flights": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "florist": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "futbol": [
+        "whois.nic.futbol",
+        "Domain not found"
+    ],
+    "gallery": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "glass": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "graphics": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "guru": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "holdings": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "holiday": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "house": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "ink": [
+        "whois.nic.ink",
+        "DOMAIN NOT FOUND"
+    ],
+    "institute": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "international": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "kitchen": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "land": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "lighting": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "limo": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "luxury": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "maison": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "management": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "marketing": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "menu": [
+        "whois.nic.menu",
+        "No Data Found"
+    ],
+    "ninja": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+    "pink": [
+        "whois.afilias.net",
+        "NOT FOUND"
+    ],
+    "photography": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "photos": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "plumbing": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "recipes": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "repair": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "sexy": [
+        "whois.uniregistry.net",
+        "is available for registration"
+    ],
+    "shoes": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "singles": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "solar": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "solutions": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "support": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "systems": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "tattoo": [
+        "whois.uniregistry.net",
+        "is available for registration"
+    ],
+    "technology": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "tips": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "today": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "training": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "uno": [
+        "whois.nic.uno",
+        "Not found"
+    ],
+    "ventures": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "viajes": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+    "voyage": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"ceo": [
+        "whois.nic.ceo",
+        "Not found"
+    ],
+	"cleaning": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"consulting": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"fish": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"gift": [
+        "whois.uniregistry.net",
+        "No match for"
+    ],
+	"guitars": [
+        "whois.uniregistry.net",
+        "is available for registration"
+    ],
+	"kaufen": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"kiwi": [
+        "whois.nic.kiwi",
+        "Not Registered"
+    ],
+	"link": [
+        "whois.uniregistry.net",
+        "is available for registration"
+    ],
+	"london": [
+        "whois.nic.london",
+        "Not Registered"
+    ],
+	"moda": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"partners": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"pictures": [
+        "whois.donuts.co",
+        "Domain not found"
+    ],
+	"rich": [
+        "whois.nic.rich",
+        "NOT FOUND"
+    ],
+	"rocks": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"tokyo": [
+        "whois.nic.tokyo",
+        "Not found"
+    ],
+	"accountants": [
+        "whois.nic.accountants",
+        "Domain not found"
+    ],
+	"digital": [
+        "whois.nic.digital",
+        "Domain not found"
+    ],
+	"finance": [
+        "whois.nic.finance",
+        "Domain not found"
+    ],
+	"airforce": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"army": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"attorney": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"auction": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"degree": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"dentist": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"forsale": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"gives": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"haus": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"lawyer": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"mortgage": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"rehab": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"republican": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"software": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"archi": [
+        "whois.ksregistry.net",
+        "not found"
+    ],
+	"audio": [
+        "whois.nic.audio",
+        "is available for registration"
+    ],
+	"bar": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+	"bayern": [
+        "whois-dub.mm-registry.com",
+        "Not Registered"
+    ],
+	"bio": [
+        "whois.nic.bio",
+        "not found"
+    ],
+	"business": [
+        "whois.nic.business",
+        "Domain not found"
+    ],
+	"christmas": [
+        "whois.nic.christmas",
+        "is available for registration"
+    ],
+	"church": [
+        "whois.nic.church",
+        "Domain not found"
+    ],
+	"city": [
+        "whois.nic.city",
+        "Domain not found"
+    ],
+	"claims": [
+        "whois.nic.claims",
+        "Domain not found"
+    ],
+	"click": [
+        "whois.nic.click",
+        "is available for registration"
+    ],
+	"college": [
+        "whois.nic.college",
+        "DOMAIN NOT FOUND"
+    ],
+	"cooking": [
+        "whois.nic.cooking",
+        "Not Registered"
+    ],
+	"country": [
+        "whois.nic.country",
+        "Not Registered "
+    ],
+	"credit": [
+        "whois.nic.credit",
+        "Domain not found"
+    ],
+	"creditcard": [
+        "whois.nic.creditcard",
+        "Domain not found"
+    ],
+	"deals": [
+        "whois.nic.deals",
+        "Domain not found"
+    ],
+	"delivery": [
+        "whois.nic.delivery",
+        "Domain not found"
+    ],
+	"desi": [
+        "whois.nic.desi",
+        "not found"
+    ],
+	"diet": [
+        "whois.nic.diet",
+        "is available for registration"
+    ],
+	"direct": [
+        "whois.nic.direct",
+        "Domain not found"
+    ],
+	"finance": [
+        "whois.nic.finance",
+        "Domain not found"
+    ],
+	"fishing": [
+        "whois-dub.mm-registry.com",
+        "Not Registered"
+    ],
+	"fitness": [
+        "whois.nic.fitness",
+        "Domain not found"
+    ],
+	"gifts": [
+        "whois.nic.gifts",
+        "Domain not found"
+    ],
+	"global": [
+        "whois.nic.global",
+        "NOT FOUND"
+    ],
+	"gratis": [
+        "whois.nic.gratis",
+        "Domain not found"
+    ],
+	"guide": [
+        "whois.nic.guide",
+        "Domain not found"
+    ],
+	"healthcare": [
+        "whois.nic.healthcare",
+        "Domain not found"
+    ],
+	"help": [
+        "whois.nic.help",
+        "is available for registration"
+    ],
+	"hiphop": [
+        "whois.nic.hiphop",
+        "is available for registration"
+    ],
+	"horse": [
+        "whois.nic.horse",
+        "Not Registered"
+    ],
+	"host": [
+        "whois.nic.host",
+        "DOMAIN NOT FOUND"
+    ],
+	"hosting": [
+        "whois.uniregistry.net",
+        "is available for registration"
+    ],
+	"investments": [
+        "whois.nic.investments",
+        "Domain not found"
+    ],
+	"jetzt": [
+        "whois.nic.jetzt",
+        "There were no records matching your WHOIS query"
+    ],
+	"juegos": [
+        "whois.uniregistry.net",
+        "is available for registration"
+    ],
+	"life": [
+        "whois.nic.life",
+        "Domain not found"
+    ],
+	"loans": [
+        "whois.nic.loans",
+        "Domain not found"
+    ],
+	"nagoya": [
+        "whois.nic.nagoya",
+        "DOMAIN NOT FOUND"
+    ],
+	"network": [
+        "whois.nic.network",
+        "Domain not found"
+    ],
+	"nyc": [
+        "whois.nic.nyc",
+        "There were no records matching your WHOIS query"
+    ],
+	"okinawa": [
+        "whois.nic.okinawa",
+        "NAMESERVER NOT FOUND"
+    ],
+	"paris": [
+        "whois.nic.paris",
+        "Domain cannot be found"
+    ],
+	"pizza": [
+        "whois.nic.pizza",
+        "Domain not found"
+    ],
+	"place": [
+        "whois.nic.place",
+        "Domain not found"
+    ],
+	"property": [
+        "whois.nic.property",
+        "is available for registration"
+    ],
+	"quebec": [
+        "whois.nic.quebec",
+        "No results found"
+    ],
+	"rest": [
+        "whois.centralnic.com",
+        "DOMAIN NOT FOUND"
+    ],
+	"restaurant": [
+        "whois.nic.restaurant",
+        "Domain not found"
+    ],
+	"rodeo": [
+        "whois.nic.rodeo",
+        "Not Registered"
+    ],
+	"sarl": [
+        "whois.nic.quebec",
+        "No results found"
+    ],
+	"surf": [
+        "whois.nic.surf",
+        "Not Registered"
+    ],
+	"vet": [
+        "whois.unitedtld.com",
+        "Domain not found"
+    ],
+	"voting": [
+        "whois.nic.voting",
+        "No match"
+    ],
+	"website": [
+        "whois.nic.website",
+        "DOMAIN NOT FOUND"
+    ],
+	"world": [
+        "whois.nic.world",
+        "Domain not found"
+    ],
+	"yokohama": [
+        "whois.nic.yokohama",
+        "DOMAIN NOT FOUND"
+    ],
+	"discount": [
+        "whois.nic.discount",
+        "Domain not found"
+    ],
+	"energy": [
+        "whois.nic.energy",
+        "Domain not found"
+    ],
+    "best": [
+        "whois.nic.best",
+        "Not found"
+    ]
+}

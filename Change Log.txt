@@ -1,0 +1,49 @@
+version 1.5
+--
+
+Added Heading tags on all pages for better SEO.
+Fixed widgets sizes on home page also adjusted its responsiveness.
+Fixed not redirecting after clicking on logo.
+Fixed fonts issue from admin side.
+Enhanced Error Message.
+Overall Optimized.
+
+version 1.4
+--
+
+Fixed Jquery Bug in Firefox.
+Removed default username password from admin login.
+Fixed language delete bug.
+
+version 1.3
+--
+
+Fixed Double Page Load Bug.
+Fixed Results not showing in Firefox bug.
+Added Headings for better SEO.
+Fixed some Ajax Bugs.
+Fixed some Style Bugs.
+
+version 1.2
+--
+
+Added New TLDs Support(.edu,.supplies,.co.uk,.academy,.actor,.agency,.pro,berlin,.bid,.build,.tokyo,.rich,.rest,.voting,.ninja,.photo,.red,.pics,.pink,.shiksha,.nagoya,.okinawa,.nyc,.voting).
+Fixed Warning Session Bug.
+Fixed Edit Social Profiles Bug.
+Fixed Title Breaks The Javascript Bug.
+Removed License Validation.
+Removed Encrypted Code Portions.
+Fixed Some Minor Bugs.
+
+Version 1.1
+--
+Fixed Social Profiles Bug
+Fixed Title and Description Bug
+Fixed Domain Authority Bug
+Fixed Empty Stats Bug
+Fixed Minor Style
+
+
+Version 1.0
+--
+Initial Release
